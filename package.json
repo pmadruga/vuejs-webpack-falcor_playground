@@ -38,7 +38,10 @@
     "webpack-dev-server": "^1.14.0"
   },
   "dependencies": {
+    "express": "4.13.3",
     "falcor": "^0.1.15",
+    "falcor-express": "0.1.2",
+    "falcor-router": "^0.2.12",
     "vue": "1.0.12"
   }
 }
